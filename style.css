@@ -1,4 +1,76 @@
-.header{
-    border-style: solid;
-    background-color:darkslategrey;
+.Header{
+    border-style:double;
+    background-color:rgb(43, 129, 129);
+    color:gainsboro;
+}
+
+.page{
+ background-color:silver
+}
+   
+.Info{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.img{
+    text-align: center;
+    border-style:double;
+    background-color: lightgrey;
+  
+}
+.one{
+    text-align: center;
+    border-style: groove;
+    background-color: lavender;
+}  
+ .S{
+    background-color:rgb(43, 129, 129);
+border-style: double;
+color:gainsboro;
+}
+
+.list{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.S II{
+    background-color: rgb(43, 129, 129);
+    color:gainsboro;
+    border-style: groove;
+}
+.T{
+    text-align: center;
+    border-style: groove;
+    background-color: moccasin;
+}
+.list{
+    font-size: larger;
+}
+.m{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.k{
+    background-color:rgb(43, 129, 129);
+    color: gainsboro;
+    border-style: double;
+}
+.g{
+    text-align:center;
+    border-style: groove;
+    background-color: cornsilk;
+}
+.y{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.a{
+    background-color:rgb(43, 129, 129);
+    color:gainsboro;
+    border-style:double;
+}
+.s8{
+    text-align: center;
+    background-color: darkslategray;
 }
