@@ -74,3 +74,32 @@ color:gainsboro;
     text-align: center;
     background-color: darkslategray;
 }
+.v{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.o{
+    background-color:rgb(43, 129, 129);
+    color:gainsboro;
+    border-style:double;
+}
+.p{
+    text-align: center;
+    background-color:dimgrey
+}
+.w{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.e{
+    background-color: gold;
+}
+.h{
+    background-color:rgb(43, 129, 129);
+    color:gainsboro;
+    border-style:double;
+}
+.u{
+    background-color: dodgerblue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
