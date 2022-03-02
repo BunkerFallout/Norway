@@ -1,4 +1,4 @@
-.Header{
+.a{
     border-style:double;
     background-color:rgb(43, 129, 129);
     color:gainsboro;
@@ -25,21 +25,13 @@
     border-style: groove;
     background-color: lavender;
 }  
- .S{
-    background-color:rgb(43, 129, 129);
-border-style: double;
-color:gainsboro;
-}
 
 .list{
     font-size: 20px;
     font-family: sans-serif;
 }
-.S II{
-    background-color: rgb(43, 129, 129);
-    color:gainsboro;
-    border-style: groove;
-}
+
+
 .T{
     text-align: center;
     border-style: groove;
@@ -51,11 +43,8 @@ color:gainsboro;
 .m{
     font-family: Arial, Helvetica, sans-serif;
 }
-.k{
-    background-color:rgb(43, 129, 129);
-    color: gainsboro;
-    border-style: double;
-}
+
+
 .g{
     text-align:center;
     border-style: groove;
@@ -65,22 +54,13 @@ color:gainsboro;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-.a{
-    background-color:rgb(43, 129, 129);
-    color:gainsboro;
-    border-style:double;
-}
+
 .s8{
     text-align: center;
     background-color: darkslategray;
 }
 .v{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.o{
-    background-color:rgb(43, 129, 129);
-    color:gainsboro;
-    border-style:double;
 }
 .p{
     text-align: center;
@@ -92,14 +72,19 @@ color:gainsboro;
 .e{
     background-color: gold;
 }
-.h{
-    background-color:rgb(43, 129, 129);
-    color:gainsboro;
-    border-style:double;
-}
+
 .u{
     background-color: dodgerblue;
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
+}
+.footer{
+    background-color: dimgrey;
+    border-style: solid;
+}
+.if{
+    text-align: center;
+    border-style: outset;
+    background-color: ivory;
 }
